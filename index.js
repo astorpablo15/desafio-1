@@ -26,3 +26,4 @@ user1.addBook({
 })
 
 console.log(user1.getBookNames())
+console.info("Hola carlos como va")
